@@ -1,16 +1,18 @@
 # Germany Business Leads Scraper
 
-🚀 A Python automation tool for extracting **real business leads** (including phone numbers) and delivering them in a clean, ready-to-use CSV format.
+🚀 Extract real business leads (including phone numbers) and deliver them as clean, ready-to-use CSV files.
+
+This project showcases a Python automation system designed for **lead generation, sales, and marketing use cases**.
 
 ---
 
-## 💼 What This Project Does
+## 💼 What You Get
 
-This tool collects structured business data from public directories and converts it into **usable leads for sales and marketing**.
+- Business Name  
+- Website  
+- Phone Number  
 
-✔ Business Name
-✔ Website
-✔ Phone Number
+All data is cleaned, structured, and ready for immediate use.
 
 ---
 
